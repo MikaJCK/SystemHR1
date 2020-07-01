@@ -1,0 +1,4 @@
+Project1-warmup.c AKA reverse
+reverse is a program that reverses the order of the input given line by line. This can be used in two ways. 1. when running reverse a text file is given which input is then reversed, or user doesn\t give any file in which case the user can input as many lines as they wish until they give an empty line. at that point the previously given lines are reversed.
+Usage: ./reverse {textfile}
+Errors: cannot open file, failed to allocate memory
